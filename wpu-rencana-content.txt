@@ -1,7 +1,8 @@
 RENCANA KONTEN WPU
 
 - Javascript
-  ^ Vue
+  ^ Angular
+  ^ React
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
