@@ -1,6 +1,7 @@
 RENCANA KONTEN WPU
 
 - Javascript
+- Struktur Data Dasar
 - PHP Frameworks
 - Interview
 - Vlogs
